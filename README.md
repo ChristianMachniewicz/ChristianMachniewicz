@@ -12,13 +12,14 @@ Meu nome é Christian. Eu sou um apaixonado por programação front-end.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
 
-* NOTA: As principais linguagens não indicam meu nível de habilidade ou algo parecido, é uma métrica do github de quais linguagens eu tenho mais código no github, é um novo recurso do [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChristianMachniewicz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianMachniewicz&layout=compact&langs_count=8&theme=radical"/>
-</div>
+<a href="https://github.com/ChristianMachniewicz">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianMachniewicz&layout=compact&langs_count=8&theme=radical"/>
+  <img align="right" height="180px"  src="https://cdn.discordapp.com/attachments/530036534884302868/880917097742495744/MadComfortableGraywolf-size_restricted.gif">
+</a>
+
+
 
    ##
   
