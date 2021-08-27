@@ -17,7 +17,7 @@ Meu nome é Christian. Eu sou um apaixonado por programação front-end.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChristianMachniewicz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianMachniewicz&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianMachniewicz&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
    ##
